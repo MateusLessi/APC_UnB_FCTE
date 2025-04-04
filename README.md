@@ -9,7 +9,7 @@ Aqui, os alunos encontrarão:
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano_de_Ensino_APC_2025_01_T12.pdf)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
-- 💻 [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
+- 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
 - 📝 **Listas de Exercícios** (se aplicável, normalmente será no juiz online [MOJ](https://moj.naquadah.com.br/))
 
 ## 📜 Sobre a Disciplina
