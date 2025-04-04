@@ -6,8 +6,8 @@ Este repositório contém materiais da disciplina **Algoritmos e Programação d
 
 Aqui, os alunos encontrarão:
 
-- 📑 **Plano de Ensino** da disciplina
-- 📂 **Slides das Aulas Teóricas**
+- 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano_de_Ensino_APC_2025_01_T12.pdf)
+- 📂 [**Slides das Aulas Teóricas**](./preparando-o-ambiente/preparando-o-ambiente.pdf)
 - 💻 **Códigos de Exemplos** abordados em sala
 - 📝 **Listas de Exercícios** (se aplicável, normalmente será no juiz online [MOJ](https://moj.naquadah.com.br/))
 
@@ -21,12 +21,14 @@ A estrutura do repositório será organizada da seguinte forma:
 ```
 APC-2025.1-UnB/
 │-- plano-de-ensino/
-│   ├── plano_de_ensino.pdf
+│   ├── Plano_de_Ensino_APC_2025_01_T12.pdf
+│-- preparando-o-ambiente/
+│   ├── preparando-o-ambiente.pdf
 │-- slides/
 │   ├── aula_01_intro.pdf
 │   ├── aula_02_variaveis.pdf
 │-- codigos/
-│   ├── exemplo1.c
+│   ├── ...
 ```
 
 ## 📢 Contribuições
