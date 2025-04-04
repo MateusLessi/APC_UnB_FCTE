@@ -2,6 +2,6 @@
 
 int main() {
     // escrever o algoritmo a partir daqui...
-    printf("Ola Mundo!\n");
+    printf("Testando!\n");
     return 0;
 }
