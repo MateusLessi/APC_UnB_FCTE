@@ -37,7 +37,7 @@ sudo apt install gcc
 ```
 
 #### Windows
-Para instalar o GCC no Windows, a melhor opção é utilizar o **MinGW**. Um tutorial detalhado pode ser encontrado [aqui](https://www.mingw-w64.org/) (ignore a parte que menciona o Dev C++).
+Para instalar o GCC no Windows, a melhor opção é utilizar o **MinGW**. Um tutorial detalhado pode ser encontrado [aqui](https://phoenixnap.com/kb/install-gcc-windows) (qualquer problema ou dificuldade avisar no grupo).
 
 ---
 ## 🚀 Como Compilar e Executar seu Código
