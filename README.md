@@ -37,5 +37,5 @@ APC-2025.1-UnB/
 Este repositório é destinado apenas ao compartilhamento de materiais da disciplina. Se encontrar erros ou tiver sugestões, sinta-se à vontade para abrir uma **issue** ou entrar em contato.
 
 ---
-📧 Dúvidas? Entre em contato com o professor **Lucas Boaventura**.
+📧 Dúvidas? Entre em contato com o professor **Lucas Boaventura** pelo email lucasxboaventura18@gmail.com com o seguinte assunto "Dúvidas APC 2025.1".
 
