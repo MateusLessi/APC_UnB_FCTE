@@ -11,6 +11,7 @@ Aqui, os alunos encontrarão:
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
 - 📝 **Listas de Exercícios** (se aplicável, normalmente será no juiz online [MOJ](https://moj.naquadah.com.br/))
+    - 📋 **Lista 01**: [Lab P1 T12](https://moj.naquadah.com.br/cgi-bin/contest.sh/boaventura_LAB_P1_APC_2025_04) (login/senha enviados no email @aluno.unb.br)
 
 ## 📜 Sobre a Disciplina
 
