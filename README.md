@@ -7,7 +7,7 @@ Este repositório contém materiais da disciplina **Algoritmos e Programação d
 Aqui, os alunos encontrarão:
 
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano_de_Ensino_APC_2025_01_T12.pdf)
-- 💯 [**Notas Provas** da disciplina](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P1.pdf)
+- 💯 [**Notas Provas** da disciplina](./notas/)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
