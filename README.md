@@ -8,6 +8,11 @@ Aqui, os alunos encontrarão:
 
 - 📑 [**Plano de Ensino** da disciplina](./plano-de-ensino/Plano_de_Ensino_APC_2025_01_T12.pdf)
 - 💯 [**Notas Provas** da disciplina](./notas/)
+    - [**P1**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P1.pdf)
+    - [**P2**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P2.pdf)
+    - [**P3**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P3.pdf)
+    - [**Prova Substitutiva**](./notas/)
+    - [**Notas Gerais**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20Notas%20Gerais.pdf)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
 - 🛠️ [**Preparando o ambiente** para desenvolvimento na Liinguagem C](./preparando-o-ambiente/preparando-o-ambiente.md)
