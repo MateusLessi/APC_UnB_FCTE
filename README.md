@@ -11,7 +11,7 @@ Aqui, os alunos encontrarão:
     - [**P1**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P1.pdf)
     - [**P2**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P2.pdf)
     - [**P3**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20P3.pdf)
-    - [**Prova Substitutiva**](./notas/)
+    - [**Prova Substitutiva**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20Prova%20Substitutiva.pdf)
     - [**Notas Gerais**](./notas/NOTAS%20APC%202025.1%20-%20T12%20-%20Notas%20Gerais.pdf)
 - 📂 [**Slides das Aulas Teóricas**](./slides/)
 - 💻 [**Códigos de Exemplos** abordados em sala](./codigos/)
