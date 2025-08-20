@@ -1,6 +1,6 @@
 # APC T12- 2025.1 - UnB
 
-Este repositório contém materiais da disciplina **Algoritmos e Programação de Computadores (APC)** do curso de Engenharia de Software da **Universidade de Brasília (UnB)**, ministrada pelo professor **Lucas Boaventura** no semestre **2025.1**.
+Este repositório contém materiais da disciplina **Algoritmos e Programação de Computadores (APC)** do curso de Engenharia de Software da **Universidade de Brasília (UnB)**, ministrada pelo professor **Lucas Boaventura**.
 
 ## 📌 Conteúdo
 
