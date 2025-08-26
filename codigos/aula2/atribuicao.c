@@ -1,12 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    float f = 81000.9;
-    int x;
+    float f = 62.9;
     char c;
 
-    x = f;
-    c = x;
-    printf("Char c = %c\nInt x = %d\n", c, x);
+    c = f;
+    printf("Char c = %c\n", c);
     return 0;
 }
